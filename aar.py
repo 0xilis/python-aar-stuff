@@ -1,3 +1,8 @@
+'''
+Created by Snoolie K (0xilis) on 2025 March 18.
+Licensed under MIT. Please credit if using.
+'''
+
 import struct
 
 # make a .aar of one contexts.plist file
